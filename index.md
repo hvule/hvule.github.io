@@ -1,26 +1,28 @@
-# Hoang-Vu Le's Personal Website
+<div style="display: flex;">
+  <div style="flex: 1;">
+    <img src="/DSC_1488.JPG" alt="Avatar" style="max-width: 100%; height: auto;">
+  </div>
+  <div style="flex: 3; padding-left: 20px;">
+    <h1>Hoang-Vu Le's Personal Website</h1>
 
-## ![Avatar](/DSC_1488.JPG)
+    <h2>About Me</h2>
+    <p>Welcome to my personal website! I am Hoang-Vu Le, a web developer and aspiring academic researcher passionate about computer science and technology.</p>
 
-Welcome to my personal website! I am Hoang-Vu Le, a web developer and aspiring academic researcher passionate about computer science and technology.
+    <h2>Research Papers</h2>
+    <ul>
+      <li><a href="link-to-paper1">Paper 1 Title</a>: Brief description of paper 1.</li>
+      <li><a href="link-to-paper2">Paper 2 Title</a>: Brief description of paper 2.</li>
+      <li><a href="link-to-paper3">Paper 3 Title</a>: Brief description of paper 3.</li>
+    </ul>
 
-## About Me
+    <h2>Curriculum Vitae (CV)</h2>
+    <p><a href="link-to-cv">Download CV</a>: Click here to download my CV.</p>
 
-I am currently pursuing a Ph.D. in Computer Science at [Your University]. My research interests include machine learning, natural language processing, and computer vision. I have published several papers in top-tier conferences and journals in these areas.
-
-## Research Papers
-
-- [Paper 1 Title](link-to-paper1): Brief description of paper 1.
-- [Paper 2 Title](link-to-paper2): Brief description of paper 2.
-- [Paper 3 Title](link-to-paper3): Brief description of paper 3.
-
-## Curriculum Vitae (CV)
-
-- [Download CV](link-to-cv): Click here to download my CV.
-
-## Contact Me
-
-- **Email:** your-email@example.com
-- **LinkedIn:** [Your LinkedIn Profile](link-to-linkedin)
-- **GitHub:** [Your GitHub Profile](link-to-github)
-
+    <h2>Contact Me</h2>
+    <ul>
+      <li>Email: <a href="mailto:your-email@example.com">your-email@example.com</a></li>
+      <li>LinkedIn: <a href="link-to-linkedin">Your LinkedIn Profile</a></li>
+      <li>GitHub: <a href="link-to-github">Your GitHub Profile</a></li>
+    </ul>
+  </div>
+</div>
