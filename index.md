@@ -1,6 +1,6 @@
 <div style="display: flex;">
   <div style="flex: 1;">
-    ![Avatar](/DSC_1488.JPG)
+    ![Avatar](blob/main/DSC_1488.JPG)
   </div>
   <div style="flex: 3;">
     <!-- Your other content here -->
