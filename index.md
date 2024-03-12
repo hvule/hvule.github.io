@@ -1,6 +1,6 @@
 <div style="display: flex;">
   <div style="flex: 1;">
-    <img src="/DSC_1488.JPG" alt="Avatar" style="max-width: 10%; height: 10%;">
+    <img src="/DSC_1488.JPG" alt="Avatar" style="max-width: 50%; height: auto;">
   </div>
   <div style="flex: 3; padding-left: 20px;">
     <h1>Hoang-Vu Le's Personal Website</h1>
