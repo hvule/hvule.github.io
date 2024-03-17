@@ -9,6 +9,20 @@
  *  - https://twitter.com/mmistakes
  *
 */
+.btn--research {
+  background-color: #ff5733; /* Button background color */
+  color: #fff; /* Button text color */
+  padding: 10px 20px; /* Button padding */
+  border-radius: 5px; /* Button border radius */
+  text-decoration: none; /* Remove underline */
+  border: none; /* Remove border */
+  font-size: 16px; /* Button font size */
+  transition: background-color 0.3s ease; /* Smooth transition on hover */
+}
+
+.btn--research:hover {
+  background-color: #ff7f50; /* Button background color on hover */
+}
 
 @import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
