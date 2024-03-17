@@ -16,9 +16,10 @@ Welcome to my website. I expect you will explore something interesting, and migh
 Teaching
 ======
 
-1. Economics 1A, 2A
-2. Mathematical Finance (Master)
-3. Economics Fundemental and Financial Market (Master)
+Economics 1A, 2A
+Mathematical Finance (Master)
+Economics Fundemental and Financial Market (Master)
+   
 
 Getting started
 ======
