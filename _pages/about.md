@@ -11,7 +11,7 @@ Hi there,
 
 Welcome to my website. I expect you will explore something interesting, and might be useful from it. Persuing a PhD in Economics, for me, is a glittering journey, yet coupled with flipping challenging moments. You are warmly welcomed here, just stay tuned and feel free to drop me an email if have any questions.
 
-<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3737456" class="btn--research">SSRN</a>
+<button><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3737456">SSRN</a></button>
 
 Research Interests
 ======
