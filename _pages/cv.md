@@ -8,7 +8,7 @@ author_profile: true
 ---
 
 {% include base_path %}
-You can download my CV <a href="hvule.github.io/files/CV_VuLH.pdf">here</a>
+You can download my CV <a href="../files/CV_VuLH.pdf">here</a>
 
 <!-- Education
 ======
