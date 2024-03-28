@@ -8,7 +8,10 @@ author_profile: true
 ---
 
 {% include base_path %}
-You can download my CV <a href="files/CV_VuLH">here</a>
+You can download my CV <a href="../files/CV_VuLH">here</a>
+
+
+
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
