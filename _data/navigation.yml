@@ -11,7 +11,7 @@ main:
   #  url: /talks/    
 
   - title: "Teaching Evaluation"
-  #  url: /teaching/    
+    url: /teaching/    
     
   #- title: "Portfolio"
   #  url: /portfolio/
