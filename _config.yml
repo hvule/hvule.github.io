@@ -22,7 +22,7 @@ show_downloads           : true
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "avt_2.jpg"
+  avatar           : "new_avatar.jpg"
   name             : "Hoang-Vu Le"
   pronouns         : # example: "she/her"  
   bio              : "Just a Nomad in Science"
