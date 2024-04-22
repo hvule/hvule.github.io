@@ -24,8 +24,9 @@ Research Interests
 Publication/Working paper
 ======
 
-* Competitive insurance market under ambiguity <a href="https://doi.org/10.50906/cems.3.0_56" class="btn--research">SSRN</a>
+* Competitive insurance market under ambiguity <a href="https://doi.org/10.50906/cems.3.0_56" class="btn--research">SSRN</a><br>
  _Communications in Economics and Mathematical Sciences_
+
 * The Principal-Agent problem under ambiguity aversion-Working paper
 
 
