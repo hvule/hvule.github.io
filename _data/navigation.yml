@@ -10,7 +10,7 @@ main:
   #- title: "Conferences"
   #  url: /talks/    
 
-  #- title: "Teaching"
+  - title: "Teaching Evaluation"
   #  url: /teaching/    
     
   #- title: "Portfolio"
