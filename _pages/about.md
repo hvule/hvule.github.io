@@ -7,11 +7,11 @@ permalink: /
 #  - /about.html
 ---
 
-Hi there,
+Hi ya,
 
-Welcome to my website. I expect you will explore something interesting, and might be useful from it. Persuing a PhD in Economics, for me, is a glittering journey, yet coupled with flipping challenging moments. You are warmly welcomed here, just stay tuned and feel free to drop me an email if have any questions.
+Welcome to my website. My name is Vu Le (Dave). I am the last-year PhD in Economics at Adam Smith Business School, University of Glasgow. I hope that you will explore something interesting, and might be useful from my website. Persuing a PhD in Economics, for me, is a glittering journey, yet sometimes coupled with challenging moments. You are warmly welcomed here, just stay tuned and feel free to drop me an email if have any questions.
 
-<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4762724" class="btn--research">SSRN</a>
+
 
 Research Interests
 ======
@@ -20,6 +20,14 @@ Research Interests
 * Game Theory
 * Information Design
 * Computer Science
+
+Publication/Working paper
+======
+
+* Competitive insurance market under ambiguity <a href="https://doi.org/10.50906/cems.3.0_56" class="btn--research">SSRN</a>
+* The Principal-Agent problem under ambiguity aversion-Working paper
+
+
 
 Teaching
 ======
