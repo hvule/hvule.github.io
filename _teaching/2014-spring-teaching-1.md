@@ -9,3 +9,4 @@ date: 2023-10-01
 
 Please [click here](/files/ECON5020.pdf) to download the feedback.
 
+Please [click here](pdf_viewer_5020.html) to view the feedback.
