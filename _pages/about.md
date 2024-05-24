@@ -37,7 +37,6 @@ Teaching
 * Economics 1A, 2A
 * Mathematical Finance (Master)
 * Economics Fundemental and Financial Market (Master)
-* Statistics
 * Financial Markets and Asset Pricing
   
 
