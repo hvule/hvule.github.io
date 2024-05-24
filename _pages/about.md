@@ -9,7 +9,7 @@ permalink: /
 
 Hi ya,
 
-Welcome to my website. My name is Vu Le (Dave). I am the last-year PhD in Economics at Adam Smith Business School, University of Glasgow. I hope that you will explore something interesting, and might be useful from my website. Persuing a PhD in Economics, for me, is a glittering journey, yet sometimes coupled with challenging moments. You are warmly welcomed here, just stay tuned and feel free to drop me an email if have any questions.
+Welcome to my website. My name is Hoang-Vu Le (Dave). I am the last-year PhD in Economics at Adam Smith Business School, University of Glasgow. I hope that you will explore something interesting, and might be useful from my website. Persuing a PhD in Economics, for me, is a glittering journey, yet sometimes coupled with challenging moments. You are warmly welcomed here, just stay tuned and feel free to hit me up if have any qommon interests.
 
 
 
@@ -24,10 +24,10 @@ Research Interests
 Publication/Working paper
 ======
 
-* Competitive insurance market under ambiguity <a href="https://doi.org/10.50906/cems.3.0_56" class="btn--research">SSRN</a><br><br>
+* Competitive insurance market under ambiguity <a href="https://doi.org/10.50906/cems.3.0_56" class="btn--research">CEMS</a><br><br>
  _Communications in Economics and Mathematical Sciences_
 
-* The Principal-Agent problem under ambiguity aversion-Working paper
+* The Principal-Agent problem under ambiguity aversion <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4782681" class="btn--research">SSRN</a><br><br> -Working paper
 
 
 
@@ -38,5 +38,6 @@ Teaching
 * Mathematical Finance (Master)
 * Economics Fundemental and Financial Market (Master)
 * Statistics
-   
+* Financial Markets and Asset Pricing
+  
 
