@@ -9,7 +9,7 @@ permalink: /
 
 Hi ya,
 
-Welcome to my website. My name is Hoang-Vu Le (Dave). I am the last-year PhD in Economics at Adam Smith Business School, University of Glasgow. I hope that you will explore something interesting, and might be useful from my website. Persuing a PhD in Economics, for me, is a glittering journey, yet sometimes coupled with challenging moments. You are warmly welcomed here, just stay tuned and feel free to hit me up if have any common interests.
+Welcome to my website. I am Hoang-Vu Le (Dave), a final year PhD in Economics at Adam Smith Business School, University of Glasgow. I hope that you will explore something interesting, and might be useful from my website. Persuing a PhD in Economics, for me, is a glittering journey, yet sometimes coupled with challenging moments. You are warmly welcomed here, just stay tuned and feel free to hit me up if have any common interests.
 
 
 
