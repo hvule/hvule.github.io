@@ -9,4 +9,4 @@ I play the acoustic guitar and sometimes the piano whenever I want my soul to be
 
 I am also keen on playing football as a prolific forward, and pools with my buddies.
 
-[img][/img]
+<img src="/images/play_guitar.jpg" alt="Playing guitar" style="width:600px; height:auto;">
