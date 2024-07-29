@@ -3,7 +3,9 @@ main:
   
   - title: "Home"
     url: /
-    
+
+  - title: "Programming"
+    url: /program/ 
   #- title: "Publications"
   #  url: /publications/
 
