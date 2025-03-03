@@ -21,7 +21,7 @@ Research Interests
 * Information Design
 * Computer Science
 
-Publication/Working paper
+Publications/Working papers
 ======
 
 * Competitive insurance market under ambiguity <a href="https://doi.org/10.50906/cems.3.0_56" class="btn--research">CEMS</a><br><br>
