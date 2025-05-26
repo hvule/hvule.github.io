@@ -16,9 +16,9 @@ Welcome to my website. I am Hoang-Vu Le (Dave), a recent PhD graduate in Economi
 Research Interests
 ======
 
-* Decision Theory
+* Information Economics
 * Game Theory
-* Information Design
+* Mathematical Finance
 * Computer Science
 
 Publications/Working papers
@@ -28,7 +28,7 @@ Publications/Working papers
  _Communications in Economics and Mathematical Sciences_
 
 * Moral Hazard under ambiguity <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4782681" class="btn--research">SSRN</a><br><br> 
-
+ _Mathematical Social Sciences, Revise and resubmit_
 
 
 Teaching
