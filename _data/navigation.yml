@@ -22,7 +22,7 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
     
-  - title: "CV"
+  - title: "Vita"
     url: /cv/
 
   - title: "Interests"
